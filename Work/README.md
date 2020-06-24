@@ -6,3 +6,7 @@ their corresponding exercise number.
 
 Many of the programs you write reference files found in the `Data/` directory.
 That is also located here.
+
+# Waar ben ik gebleven?
+
+24-06-2020 1.5 Lists 
