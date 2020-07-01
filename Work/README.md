@@ -9,4 +9,9 @@ That is also located here.
 
 # Waar ben ik gebleven?
 
-24-06-2020 1.5 Lists 
+24-06-2020 1.4 Strings done 
+01-07-2020 1.5 Lists done
+
+# Site
+
+[Practical Python Programming](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
