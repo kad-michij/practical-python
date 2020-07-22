@@ -9,9 +9,10 @@
 #     for line in f:
 #         print(line, end='')
 
-f = open('Data/portfolio.csv', 'rt')
-headers = next(f)
-print(headers)
-for line in f:
-    print(line, end='')
-f.close()
+# f = open('Data/portfolio.csv', 'rt')
+# headers = next(f)
+# print(headers)
+# for line in f:
+#     print(line, end='')
+# f.close()
+
