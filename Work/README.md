@@ -12,7 +12,8 @@ That is also located here.
 24-06-2020 1.4 Strings done 
 01-07-2020 1.5 Lists done
 16-07-2020 Exercise 1.26 done
-22-07-2020 1.6 Files done
+22-07-2020 1.6 Files and 1.7 Functions done
+
 
 # Site
 
