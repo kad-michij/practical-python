@@ -48,8 +48,10 @@ print('Gain', value - cost)
 def make_report(portfolio, prices):
     report = []
     for r in portfolio:
-        row = r['name'], r['shares'], prices[r['name']], (prices[r['name']]-r['price'])
-        report.append(row)
+        current_price = prices[r['name']]
+        change = current_price - r['price']
+        summary = (r['name'], r['shares'], current_price, change)
+        report.append(summary)
     return report
 
 report = make_report(portfolio, prices)
@@ -58,5 +60,5 @@ headers = ('Name', 'Shares', 'Price', 'Change')
 print('%10s %10s %10s %10s' % headers)
 print(('-' * 10 + ' ') * 4)
 for r in report:
-    print('%10s %10d %10.2f %10.2f' % r)
+    print('%10s %10d $%10.2f %10.2f' % r)
 

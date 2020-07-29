@@ -14,6 +14,7 @@ That is also located here.
 16-07-2020 Exercise 1.26 done
 22-07-2020 1.6 Files and 1.7 Functions done
 24-07-2020 2.1 & 2.2 done (next time; repeat report.py)
+29-07-2020 2.3 done 
 
 
 # Site
