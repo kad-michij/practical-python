@@ -26,8 +26,8 @@ def read_portfolio(filename):
             portfolio.append(holding)
     return portfolio
 
-prices = read_prices('Work/Data/prices.csv')
-portfolio = read_portfolio('Work/Data/portfolio.csv')
+prices = read_prices('Data/prices.csv')
+portfolio = read_portfolio('Data/portfolio.csv')
 # print(prices)
 # print(portfolio)
 
@@ -56,9 +56,9 @@ def make_report(portfolio, prices):
 
 report = make_report(portfolio, prices)
 
-headers = ('Name', 'Shares', 'Price', 'Change')
-print('%10s %10s %10s %10s' % headers)
-print(('-' * 10 + ' ') * 4)
-for r in report:
-    print('%10s %10d $%10.2f %10.2f' % r)
+# headers = ('Name', 'Shares', 'Price', 'Change')
+# print('%10s %10s %10s %10s' % headers)
+# print(('-' * 10 + ' ') * 4)
+# for r in report:
+#     print('%10s %10d $%10.2f %10.2f' % r)
 

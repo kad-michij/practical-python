@@ -16,7 +16,7 @@ That is also located here.
 24-07-2020 2.1 & 2.2 done (next time; repeat report.py)
 29-07-2020 2.3 done 
 07-01-2021 nieuwe poging, herhalen vanaf 1. 1.4 af.
-08-01-2021 1.7 herhaald  
+08-01-2021 t/m 2.3 herhaald. 2.4 exercise 2.15 af  
 
 # Site
 
