@@ -12,5 +12,5 @@ def portfolio_cost(filename):
                 print("Missing value in", row)
     return cost
 
-cost = portfolio_cost('Work/Data/portfolio.csv')
+cost = portfolio_cost('Data/portfolio.csv')
 print('Total cost:', cost)

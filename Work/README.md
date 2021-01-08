@@ -15,7 +15,8 @@ That is also located here.
 22-07-2020 1.6 Files and 1.7 Functions done
 24-07-2020 2.1 & 2.2 done (next time; repeat report.py)
 29-07-2020 2.3 done 
-07-01-2021 nieuwe poging, herhalen vanaf 1. 1.4 af.  
+07-01-2021 nieuwe poging, herhalen vanaf 1. 1.4 af.
+08-01-2021 1.7 herhaald  
 
 # Site
 
